@@ -425,7 +425,7 @@ table.separate2 tr:first-child td:last-child {
   border: 2px solid white;
 }
 .mb {
-  width: 100%;
+  width: 35%;
   background-color: #183642;
   font-size: 16px;
   padding: 5px;
@@ -436,6 +436,7 @@ table.separate2 tr:first-child td:last-child {
   border-radius: 15px;
   margin: 0px;
   transition-duration: 0s;
+  margin: 4pxs;
 }
 .mb:hover {
   background-color: rgb(37, 37, 37);
@@ -498,4 +499,7 @@ p {
   color: white;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#submit{
+  width: 150px;
 }
